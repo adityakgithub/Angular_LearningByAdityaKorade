@@ -1,3 +1,15 @@
 node_modules/
 .md
 .txt
+*.pdf
+karma.conf.js
+main.ts
+polyfills.ts
+test.ts
+tsconfig.app.json
+tsconfig.spec.json
+tslint.json
+environment.prod.ts
+environment.ts
+
+
