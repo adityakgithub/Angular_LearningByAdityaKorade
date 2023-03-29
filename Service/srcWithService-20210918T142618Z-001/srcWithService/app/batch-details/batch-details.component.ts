@@ -9,7 +9,7 @@ import { BatchService } from '../batch.service';
 export class BatchDetailsComponent implements OnInit 
 {
   // Create array to hold the information of batches
-  public batches = [];
+  public batches:any = [];
 
   // Add instance of Service in constructor
   constructor(private _batchservice:BatchService)
